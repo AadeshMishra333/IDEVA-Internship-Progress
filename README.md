@@ -15,7 +15,8 @@ Welcome to my internship log! This is my first unpaid internship, and I will be 
 * **Meeting with JK sir:** Had a brief call with JK sir and will have meeting tomorrow regarding my role and job handover process
 * **Logging into TI with the account details provided**
 
-### **29-07-2026**
+### **01-08-2026**
+* The second meeting Knowledge transfer with JK sir, uploaded [Knowledge Transfer.png](https://github.com/AadeshMishra333/IDEVA-Internship-Progress/blob/main/knowledge%20transfer.png)
 * [ ] Complete the 3 volume bible and setup the microcontroller
 * [ ] Understand the code the main motive is to control the PWM inside the circuit and communicate via C2000 T1
 * [ ] Make an AI agent (dataset still pending)
